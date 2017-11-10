@@ -1,2 +1,2 @@
-# srp_lien
+# UI Design System
 Design system for Systematic UI design
