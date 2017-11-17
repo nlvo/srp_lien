@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="14" viewBox="0 0 28 14">
+  <defs>
+    <path id="forward-a" d="M14.0217391,7.01086957 L0,14.0217391 L0,0 L14.0217391,7.01086957 Z M28.0434783,7.01086957 L14.0217391,14.0217391 L14.0217391,0 L28.0434783,7.01086957 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="forward-b" fill="#fff">
+      <use xlink:href="#forward-a"/>
+    </mask>
+    <use fill="#4A4A4A" xlink:href="#forward-a"/>
+    <g fill="#313842" mask="url(#forward-b)">
+      <rect width="28" height="23" transform="translate(0 -4.24)"/>
+    </g>
+  </g>
+</svg>
