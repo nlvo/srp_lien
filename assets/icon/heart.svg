@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="13" viewBox="0 0 14 13">
+  <defs>
+    <path id="heart-a" d="M6.98608036,1.72180303 C9.69224943,-1.50894678 13.9720662,0.146616878 13.9999158,3.87563624 C14.0277654,9.2200305 7.13478902,12.4909691 7.13478902,12.4909691 C7.13478902,12.4909691 -0.000156028494,9.30460619 0,3.87563624 C9.15760087e-05,0.689273367 4.30766641,-1.50894678 6.98608036,1.72180303 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="heart-b" fill="#fff">
+      <use xlink:href="#heart-a"/>
+    </mask>
+    <use fill="#D8D8D8" xlink:href="#heart-a"/>
+    <g fill="#1B1F29" mask="url(#heart-b)">
+      <rect width="14" height="14"/>
+    </g>
+  </g>
+</svg>

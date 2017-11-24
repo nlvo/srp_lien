@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="16" viewBox="0 0 20 16">
+  <defs>
+    <path id="library-a" d="M0,1 L3.26086957,1 L3.26086957,15.3478261 L0,15.3478261 L0,1 Z M6,1 L9.26086957,1 L9.26086957,15.3500004 L6,15.3500004 L6,1 Z M12.198529,1.66646978 L15.3482871,0.822494629 L19.0623405,14.6835306 L15.9125824,15.5275058 L12.198529,1.66646978 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="library-b" fill="#fff">
+      <use xlink:href="#library-a"/>
+    </mask>
+    <use fill="#4A4A4A" xlink:href="#library-a"/>
+    <g fill="#1B1F29" mask="url(#library-b)">
+      <rect width="19" height="15" transform="translate(0 1)"/>
+    </g>
+  </g>
+</svg>
